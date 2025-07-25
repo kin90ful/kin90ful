@@ -19,9 +19,3 @@ I will see it through no matter how many days it takes me.
 ========
 - C#
 - R
-
-
-<!---
-kin90ful/kin90ful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
