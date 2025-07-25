@@ -4,16 +4,16 @@ I will see it through no matter how many days it takes me.
 
 /// Known Languages ///
 ========
-- JS
-- Python
-- C++
-- Html
-- Java
+- Lua (Expert)
+- JS (Expert)
+- Python (Expert)
+- C++ (Advanced)
+- Html (Expert)
+- Java (Advanced)
   
 /// Learning Languages ///
 ========
 - diff
-- Lua
 
 /// Willing To learn ///
 ========
